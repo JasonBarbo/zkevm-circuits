@@ -2,7 +2,7 @@
 
 /// Bytecode unroller
 pub mod bytecode_unroller;
-/// Bytecode circuit
+/// Bytecode circuit controller
 pub mod circuit;
 pub(crate) mod param;
 
